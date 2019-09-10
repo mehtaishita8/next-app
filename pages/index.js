@@ -14,7 +14,7 @@ const Home = () => (
     <div className='hero'>
       <h1 className='title'>Welcome to Next.js. Testing pull resuest 5 with webhooks! One more test</h1>
       <p className='description'>
-        To get started, edit <code>pages/index.js</code> and save to reload.
+        Couple of words .To get started, edit <code>pages/index.js</code> and save to reload.
       </p>
 
       <div className='row'>
