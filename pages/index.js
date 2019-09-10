@@ -12,7 +12,7 @@ const Home = () => (
     <Nav />
 
     <div className='hero'>
-      <h1 className='title'>Welcome to Next.js. Testing pull resuest 5 with webhooks! One more test</h1>
+      <h1 className='title'>Welcome to Next.js. Deploying nextjs app to ACR</h1>
       <p className='description'>
         Couple of words .To get started, edit <code>pages/index.js</code> and save to reload.
       </p>
