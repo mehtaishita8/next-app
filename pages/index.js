@@ -12,7 +12,7 @@ const Home = () => (
     <Nav />
 
     <div className='hero'>
-      <h1 className='title'>Welcome to Next.js. Buildpack nextjs app and deploy to ACR</h1>
+      <h1 className='title'>Welcome to Next.js. Buildpack nextjs app and deploy to ACR One more commit.</h1>
       <p className='description'>
         To get started, edit <code>pages/index.js</code> and save to reload.
       </p>
